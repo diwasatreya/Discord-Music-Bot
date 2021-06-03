@@ -3,7 +3,7 @@ A discord music bot which can play songs 24/7 and have advanced features.
 
 ## This bot was made Romeo#0700, do not remove credits or you will have copyright issues.
 ### Make sure to join The servers below:
-- [Recluse Community](https://discord.gg/gU7XAxTpX5)
+- [Capital Club](https://discord.gg/gU7XAxTpX5)
 
 #### Star the repo and fork it, Ty
 ###### Things You should not do
@@ -25,7 +25,7 @@ A discord music bot which can play songs 24/7 and have advanced features.
 
 
 - Run in repl.it
-- [Click Here]()
+- [Click Here](https://replit.com/@GamingDiwas/Advanced-Music-Bot)
 
 
 Please Subscribe to my channel and for help join my server.
