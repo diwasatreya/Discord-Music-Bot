@@ -1,0 +1,7 @@
+{
+  "name": "Recluse Bot",
+  "description": "Discord Music Bot built with discord.js",
+  "repository": "https://github.com/diwasatreya/Discord-Music-Bot",
+  "logo": "https://images-ext-2.discordapp.net/external/ES76_i_aBBMsjNbJa3qKpin1fylqNNxAAl0J_KE3qu8/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/804299863277174805/c2d0ebf1c90923865377a5ac059b758e.png?width=434&height=434",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
